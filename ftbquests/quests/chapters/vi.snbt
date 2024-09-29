@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vi"
+	group: "2C8A36E6333CBD7B"
+	id: "03A472B17F0A09ED"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Глава VI"
+}

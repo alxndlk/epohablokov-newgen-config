@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iix"
+	group: "2C8A36E6333CBD7B"
+	id: "20771CC75A11CD0A"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "Глава IIX"
+}
